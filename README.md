@@ -1,4 +1,4 @@
-# Intro to Identity and Access Management
+# Intro to Identity and Access Management.
 
 ## Learning Goals
 
